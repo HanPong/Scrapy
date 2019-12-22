@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\config",
+    "\\home_application",
+    "\\home_application\\templates",
+    "\\home_application\\templates\\home_application"
+  ],
+  "SelectedNode": "\\home_application\\views.py",
+  "PreviewInSolutionExplorer": false
+}
