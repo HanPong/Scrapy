@@ -16,4 +16,4 @@ whitenoise==3.3.0
 six==1.11.0
 
 #v2 requirement
-httplib2==0.9.1
+httplib2==0.18.0
